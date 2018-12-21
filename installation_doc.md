@@ -124,7 +124,7 @@ cpan LWP::UserAgent
 perl ./configure
 ```
 **OTHER PROGRAMS**
-
+```shell
 ##EVM
 wget https://github.com/EVidenceModeler/EVidenceModeler/archive/v1.1.1.tar.gz
 tar -xzf v1.1.1.tar.gz
